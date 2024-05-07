@@ -1,0 +1,22 @@
+JAVASCRIPT
+
+repositório:https://github.com/luizomf/curso-js
+
+aula 9
+ECMASCRIPT2015 (ES6)
+const: (NAO PODE MUDA) Usado para declarar variáveis constantes, cujo valor não pode ser reatribuído após a inicialização.
+let:(PODE MUDA) Usado para declarar variáveis que podem ser reatribuídas, com escopo de bloco. 
+var: (GLOBAL)Declara variáveis com escopo de função ou global, e são hoisted (elevadas) ao topo do seu escopo durante a execução.
+
+use mais let doque var!!!!!!
+
+aula10
+dados primitivos
+tring : Luiz
+number : 10
+object : null
+boolean : true
+
+aula 11
+
+
